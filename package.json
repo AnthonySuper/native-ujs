@@ -1,0 +1,11 @@
+{
+  "name": "native-ujs",
+  "version": "0.0.1",
+  "description": "A native UJS driver for Rails",
+  "main": "out/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Super <anthony@noided.media> (http://anthony.noided.media)",
+  "license": "MIT"
+}
