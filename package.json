@@ -2,7 +2,7 @@
   "name": "native-ujs",
   "version": "0.0.1",
   "description": "A native UJS driver for Rails",
-  "main": "out/index.js",
+  "main": "out/ujs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
