@@ -5,5 +5,3 @@ gem 'sinatra'
 
 gem 'rake'
 
-gem 'guard-rake'
-# gem "rails"
